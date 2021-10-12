@@ -10,9 +10,6 @@
     This loads the list of objects to rename from the specified file and activates the addon.
     To change to a different list simply input the command again using anotehr file name.
 
-  TO AUTO LOAD:
-    Use the Windower plugin manager to edit your plugin autoload settings.
-
   OTHER COMMANDS:
       //renamer status
     Will display the currently loaded name list file, if any.
